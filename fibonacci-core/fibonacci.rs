@@ -1,5 +1,4 @@
 use std::io;
-use std::io::Write;
 use std::collections::HashMap;
 
 fn fib(mut v:&mut HashMap<i64, i64>, i:i64) ->i64 {
